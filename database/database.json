@@ -1,0 +1,96 @@
+{
+  "data": {
+    "users": {
+      "6281938211593@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 15
+      },
+      "62895628977878@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 15
+      },
+      "6289529932716@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 15
+      },
+      "6281274006071@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 15
+      },
+      "6283808840711@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": "Infinity"
+      },
+      "6283144682699@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 15
+      },
+      "6281293249246@s.whatsapp.net": {
+        "afkTime": -1,
+        "afkReason": "",
+        "limit": 15
+      }
+    },
+    "chats": {
+      "6285795478124-1617162170@g.us": {
+        "mute": false,
+        "antilink": false
+      },
+      "120363038334876621@g.us": {
+        "mute": false,
+        "antilink": false
+      },
+      "6283808840711@s.whatsapp.net": {
+        "mute": false,
+        "antilink": false
+      },
+      "6282352280810-1627260211@g.us": {
+        "mute": false,
+        "antilink": false
+      }
+    },
+    "sticker": {},
+    "database": {},
+    "game": {
+      "tebaklagu": [],
+      "family100": [],
+      "math": [],
+      "tebakgambar": [],
+      "tebakkata": [],
+      "lontong": [],
+      "lontong_desk": [],
+      "kalimat": [],
+      "lirik": [],
+      "tebakan": []
+    },
+    "settings": {
+      "6283184072215@s.whatsapp.net": {
+        "status": 0,
+        "autobio": false
+      }
+    },
+    "others": {
+      "vote": []
+    }
+  },
+  "adapter": {
+    "adapter": {
+      "filename": "database/database.json",
+      "writer": {
+        "locked": false,
+        "prev": null,
+        "next": null,
+        "nextPromise": null,
+        "nextData": null,
+        "filename": "database/database.json",
+        "tempFilename": "database/.database.json.tmp"
+      }
+    }
+  }
+}
