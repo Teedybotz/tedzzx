@@ -23,16 +23,16 @@ global.ownername = 'KIKI VZ'
 global.botname = 'VraaBotz'
 global.footer = 'Made With By KikiiVz'
 global.email = 'vraakeren@gmail.com'
-global.ig = 'https://instagram.com/kikollyn'// instagram lu isi kalau ga punya Jangan di Apus
+global.ig = 'https://instagram.com/kikollyn'
 global.region = 'jepang'// bebas
 
 // Keperluan buttons
 global.myweb = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
-global.sc = 'sabar lagi ngefix'
+global.sc = 'github.com/kikivz/vraabot-MD'
 global.grupowner ='https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'// GRUP LU 
 // Wm
-global.packname = 'KIKI'//BEBAS
-global.author = 'VZ'
+global.packname = 'kiki'//BEBAS
+global.author = 'vz'
 
 // Thumb & Image random
 global.thumb = fs.readFileSync('./image/kiki.jpg')// jangan di ubah nanti eror
