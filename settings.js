@@ -23,7 +23,7 @@ global.ownername = 'KIKI VZ'
 global.botname = 'VraaBotz'
 global.footer = 'copyright by Kiki vz'
 global.email = 'vraakeren@gmail.com'
-global.ig = 'https://instagram.com/kikollyn'
+global.yt = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
 global.region = 'jepang'// bebas
 
 // Keperluan buttons
