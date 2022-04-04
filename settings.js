@@ -28,7 +28,7 @@ global.region = 'jepang'// bebas
 
 // Keperluan buttons
 global.myweb = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
-global.sc = 'github.com/kikivz/vraabot-MD'
+global.sc = 'https://github.com/kikivz/vraabot-MD'
 global.grupowner ='https://chat.whatsapp.com/JOxS05d1WWO529F40SEVEa'// GRUP LU 
 // Wm
 global.packname = 'kiki'//BEBAS
