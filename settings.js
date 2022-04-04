@@ -21,9 +21,9 @@ global.ownernomer = '6283808840711'
 global.premium = ['6283808840711']
 global.ownername = 'KIKI VZ'
 global.botname = 'VraaBotz'
-global.footer = 'Made With By KikiiVz'
+global.footer = 'VZ TEAM 2019'
 global.email = 'vraakeren@gmail.com'
-global.yt = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
+global.ig = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
 global.region = 'jepang'// bebas
 
 // Keperluan buttons
