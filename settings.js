@@ -1,5 +1,5 @@
 /* kalau eror bukan dari ku ga usah tanya" ektrak ulang aja dari awal tod 
- jangan lupa subscribe ga ada ruginya 😄
+ jangan lupa subscribe ga ada ruginya 
 */
 
 const fs = require('fs')
@@ -12,7 +12,7 @@ global.APIs = {
 
 // Apikey Website Api
 global.APIKeys = {
-	'https://zenzapi.xyz': 'sanzychan01', // masukin apikey disini *hehe maap om sanzy aku minjem apikey nya🗿
+	'https://zenzapi.xyz': 'sanzychan01',//apikey lu
 }
 
 // Owner
@@ -21,7 +21,7 @@ global.ownernomer = '6283808840711'
 global.premium = ['6283808840711']
 global.ownername = 'KIKI VZ'
 global.botname = 'VraaBotz'
-global.footer = 'copyright by Kiki vz'
+global.footer = 'Made With By KikiiVz'
 global.email = 'vraakeren@gmail.com'
 global.yt = 'https://youtube.com/channel/UCjjuhOD-Mt2XrKFptMVDysQ'
 global.region = 'jepang'// bebas
